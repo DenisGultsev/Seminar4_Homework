@@ -1,0 +1,15 @@
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\bin\Debug\net6.0\Task001_Degree _Of.exe
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\bin\Debug\net6.0\Task001_Degree _Of.deps.json
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\bin\Debug\net6.0\Task001_Degree _Of.runtimeconfig.json
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\bin\Debug\net6.0\Task001_Degree _Of.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\bin\Debug\net6.0\Task001_Degree _Of.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.csproj.AssemblyReference.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.AssemblyInfoInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.AssemblyInfo.cs
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.csproj.CoreCompileInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\refint\Task001_Degree _Of.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\Task001_Degree _Of.genruntimeconfig.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar4_Homework\Task001_Degree _Of\obj\Debug\net6.0\ref\Task001_Degree _Of.dll
